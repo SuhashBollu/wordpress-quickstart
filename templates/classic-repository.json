@@ -21,7 +21,7 @@
 	{
 	    "name": "HOSTNAME",
 	    "description": "The host name of the website (ex www.foobar.com)",
-	    "value": "https://emtechwiki-new.edu",
+	    "value": "https://suny-teaching-resources-resource-wiki.webapps.buffalo.edu",
 	    "from": "[a-zA-Z0-9-]",
 	    "required": true
 	},
